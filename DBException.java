@@ -1,7 +1,7 @@
 package db61b;
 
 /** Indicates some kind of user error.
- *  @author P. N. Hilfinger */
+ *  @author Peter Lee
 class DBException extends RuntimeException {
     /** A new exception without message. */
     public DBException() {
