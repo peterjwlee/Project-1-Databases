@@ -6,7 +6,7 @@ import static db61b.Utils.*;
 
 /** A Column accesses a specific, named column in a TableIterator, which in
  *  turn is an object that iterates through the rows of a Table.
- *  @author P. N. Hilfinger
+ *  @author Peter Lee
 */
 class Column {
 
