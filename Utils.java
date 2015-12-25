@@ -3,7 +3,7 @@ package db61b;
 import java.util.regex.Pattern;
 
 /** Various utilities used by other sources.
- *  @author P. N. Hilfinger
+ *  @author Peter Lee 
  */
 class Utils {
 
