@@ -9,7 +9,7 @@ import java.util.Scanner;
 import static db61b.Utils.*;
 
 /** Represents a stream of db61b tokens read from a given Scanner.
- *  @author P. N. Hilfinger. */
+ *  @author Peter Lee
 class Tokenizer {
 
     /** Text of regular expressions that represent literals (possibly
