@@ -4,7 +4,7 @@ import java.util.Scanner;
 import java.util.HashMap;
 
 /** The main program for db61b.
- *  @author Paul Hilfinger
+ *  @author Peter Lee
  */
 public class Main {
 
